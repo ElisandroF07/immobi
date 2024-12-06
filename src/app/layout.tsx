@@ -4,7 +4,7 @@ import "@/styles/globals.css";
 import "@/styles/effects.css"
 
 export const metadata: Metadata = {
-  title: "NL Móvel | Home",
+  title: "NL Imóvel",
   description: "Find your home",
 };
 
